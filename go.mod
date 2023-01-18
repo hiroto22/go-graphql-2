@@ -1,4 +1,4 @@
-module go-graphql-2
+module github.com/hiroto22/go-graphql-2
 
 go 1.19
 
